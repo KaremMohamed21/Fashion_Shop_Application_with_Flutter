@@ -1,6 +1,6 @@
-# fashion_shop
+# Fashion Shop
 
-A new Flutter application.
+An eCommerce application for Selling Fashion Wears.
 
 ## Getting Started
 
